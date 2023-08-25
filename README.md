@@ -17,7 +17,7 @@ The OR gate is a fundamental digital logic gate that operates on two binary inpu
 The AND gate is a fundamental digital logic gate with two inputs and one output. It produces a high output (1) only when both input signals are high (1). If any input is low (0), the output remains low. It's a building block for more complex logic circuits and is integral in digital computations.
 #### NOT Gate:
 The NOT gate is a fundamental digital logic gate. It has a single input and a single output. The output is the inverse of the input: if the input is high (1), the output is low (0), and vice versa. It's a basic building block in digital circuits, used for logic inversion.
-## Procedure
+
 ## Procedure:-
 1. Create a New Project:
    - Open Quartus and create a new project by selecting "File" > "New Project Wizard."
@@ -66,11 +66,11 @@ endmodule
 ## RTL diagram:
 ![image](https://github.com/SowmyaVisvanathan/Experiment--02-Implementation-of-combinational-logic-/assets/119475775/5dd1fc09-c9aa-47d8-acc6-c04f1871539f)
 
-## Timing Diagram:
-![image](https://github.com/SowmyaVisvanathan/Experiment--02-Implementation-of-combinational-logic-/assets/119475775/87b0bde0-42ce-4030-b143-71602e3978ba)
-
 ## Truth table:
 ![WhatsApp Image 2023-08-25 at 09 51 27](https://github.com/SowmyaVisvanathan/Experiment--02-Implementation-of-combinational-logic-/assets/119475775/9af6343a-0c74-46b7-88dd-dd512984908a)
+
+## Timing Diagram:
+![image](https://github.com/SowmyaVisvanathan/Experiment--02-Implementation-of-combinational-logic-/assets/119475775/87b0bde0-42ce-4030-b143-71602e3978ba)
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
